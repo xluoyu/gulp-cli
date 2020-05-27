@@ -1,0 +1,53 @@
+body,
+ol,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+p,
+b,
+th,
+td,
+dl,
+dd,
+form,
+pre,
+fieldset,
+legend,
+input,
+textarea,
+select {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 16px;
+}
+body {
+  font-size: 16px;
+  font-family: DFPKingGothicGB-Regular, sans-serif;
+  background: #fff;
+  min-width: 980px;
+  overflow-y: auto;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+body {
+  -webkit-tap-highlight-color: transparent;
+}
+li {
+  list-style: none;
+}
+img {
+  border: 0;
+  vertical-align: middle;
+}
+p {
+  word-wrap: break-word;
+}
